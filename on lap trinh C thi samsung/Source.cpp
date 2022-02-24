@@ -14,7 +14,6 @@ int main (){
 			if( i % x == 0 & i % y != 0){
 				cout <<  i << " ";
 			}
-			
 		}
 	}
 	cout << endl;
