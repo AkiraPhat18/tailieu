@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+	//The input begins with the number t of test cases in a single line (t<=10). In each of the next t lines there are two numbers m and n (1 <= m <= n <= 1000000000, n-m<=100000) separated by a space.
 int main (){
 	//freopen("input.txt", "r", stdin);
 	
